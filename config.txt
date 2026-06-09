@@ -1,0 +1,4 @@
+https://google.com
+https://github.com
+https://example.com
+https://invalid-monitor-test-12345.com

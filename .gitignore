@@ -1,0 +1,12 @@
+# Logs
+logs/*.log
+
+# State files
+alerts/state/*.state
+
+# Generated reports
+uptime_report.csv
+
+# Backup files
+*.bak
+*.tmp
