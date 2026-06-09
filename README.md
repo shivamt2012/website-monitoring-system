@@ -156,5 +156,5 @@ This project demonstrates:
 
 ## Author
 
-[Shivam Tiwari]
+Shivam Tiwari
 
